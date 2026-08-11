@@ -1,13 +1,13 @@
 {
   "id": "prime-agent-2",
-  "name": "prime-agent",
+  "name": "prime agent",
   "channels": [
     "web"
   ],
   "mode": "simulator",
   "env": {
-    "url": "PRIME_AGENT_URL",
-    "password": "PRIME_AGENT_PASSWORD"
+    "url": "PRIME_AGENT_2_URL",
+    "password": "PRIME_AGENT_2_PASSWORD"
   },
   "userId": "github:276575763",
   "github": {
