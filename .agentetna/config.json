@@ -1,16 +1,15 @@
 {
-  "id": "prime-agent",
+  "id": "prime-agent-2",
   "name": "prime-agent",
   "channels": [
     "web"
   ],
-  "mode": "unknown",
+  "mode": "simulator",
   "env": {
     "url": "PRIME_AGENT_URL",
     "password": "PRIME_AGENT_PASSWORD"
   },
   "userId": "github:276575763",
-  "directUrl": "https://prime-agent-pa.onrender.com",
   "github": {
     "repo": "giudig26/prime-agent",
     "branch": "main",
